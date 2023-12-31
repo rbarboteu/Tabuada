@@ -10,7 +10,7 @@ public class Treino {
         System.out.println("Digite o número que você quer saber a tabuada: ");
         numeroUsuario = leitura.nextDouble();
 
-        System.out.println("Até qual multiplicador você quer a tabuada?");
+        System.out.println("Até qual multiplicador você quer que vá a tabuada?");
         limiteTabuada = leitura.nextInt();
 
         for( int i = 0; i <= limiteTabuada; i++){
